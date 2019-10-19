@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CleanSweep.iml" filepath="$PROJECT_DIR$/.idea/CleanSweep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu.depaul.iml" filepath="$PROJECT_DIR$/edu.depaul.iml" />
     </modules>
   </component>
 </project>
