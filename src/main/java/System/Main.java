@@ -7,9 +7,6 @@ public class Main {
         SensorSystem sensor = new SensorSystem();
         sensor.readFile("/Users/shashanksrikanth/Desktop/floorplan.txt");
         ControlSystem control = new ControlSystem(sensor);
-        int count = sensor.getCount();
-        for(int i=0; i<15; i++){
-            control.moveDevice();
-        }
+        while(control.moveDevice()) control.moveDevice();
     }
 }

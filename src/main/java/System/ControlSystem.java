@@ -41,18 +41,28 @@ public class ControlSystem {
             coordinates[0]=-1;
             coordinates[1]=0;
         }
-        else{
+        else if(!sensor.isObstacle(position[0], position[1]-1) && !sensor.isVisited(position[0], position[1]-1)){
+            System.out.println("Checking "+(position[0])+", "+(position[1]-1));
             coordinates[0]=0;
             coordinates[1]=-1;
+        }
+        else {
+            System.out.println("Full floor has been traversed");
+            coordinates[0]=Integer.MAX_VALUE;
+            coordinates[1]=Integer.MAX_VALUE;
         }
         return coordinates;
     }
 
-    public void moveDevice(){
+    public boolean moveDevice(){
         int[]whereToGo = this.checkWhereToMove();
-        position[0]+=whereToGo[0];
-        position[1]+=whereToGo[1];
-        sensor.setVisited(position[0],position[1]);
-        System.out.println("Machine is currently at ["+position[0]+","+position[1]+"]");
+        if(whereToGo[0]!=Integer.MAX_VALUE) {
+            position[0] += whereToGo[0];
+            position[1] += whereToGo[1];
+            sensor.setVisited(position[0], position[1]);
+            System.out.println("Machine is currently at [" + position[0] + "," + position[1] + "]");
+            return true;
+        }
+        else return false;
     }
 }
