@@ -26,4 +26,8 @@ public class FloorUnit {
             if(this.visited==1) return true;
             return false;
         }
+        //add feature to get dirt level from the floor unit
+        public int getDirtLevel(){
+            return dirtLevel;
+        }
 }
