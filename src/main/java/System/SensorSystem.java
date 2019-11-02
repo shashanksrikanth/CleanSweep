@@ -52,6 +52,10 @@ public class SensorSystem {
             e.printStackTrace();
         }
     }
+//add feature to get dirt level for a location
+    public int getDirt(int row, int col){
+        return floorPlan[row][col].getDirtLevel();
+    }
 
 }
 
