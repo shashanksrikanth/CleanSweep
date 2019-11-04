@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfbafd17-f21e-4430-a3bd-7dfda1e70065" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/FloorUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/FloorUnit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/floorplan2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/floorplan2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/System/ControlSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/System/ControlSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/System/SensorSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/System/SensorSystem.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +35,6 @@
       <find>recharge mode move</find>
       <find>whereToGo</find>
       <find>the battery level now is</find>
-      <find>set</find>
       <find>stack</find>
       <find>Machine is currently at</find>
       <find>setBattery</find>
@@ -49,6 +42,18 @@
       <find>Back to the</find>
       <find>Machine is currently</find>
       <find>khoa</find>
+      <find>and</find>
+      <find>&amp;&amp;</find>
+      <find>backToCl</find>
+      <find>set</find>
+      <find>setBatt</find>
+      <find>pushing</find>
+      <find>setVisited</find>
+      <find>batteryLevel</find>
+      <find>checkDirt</find>
+      <find>setBatter</find>
+      <find>[4,0]</find>
+      <find>checking</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,9 +92,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="x" value="-241" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectId" id="1Sr5lZ20SKiqq1gufK0lyH1rkse" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -210,10 +216,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="-241" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19116081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,8 +227,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2356688" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42487046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,7 +241,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.14878398" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.11075612" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -336,6 +342,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/System/SensorSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/System/floorplan2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -345,28 +358,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/System/ControlSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="160" column="51" selection-start-line="160" selection-start-column="51" selection-end-line="160" selection-end-column="51" />
+        <state relative-caret-position="225">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="44" />
           <folding>
-            <element signature="e#6872#6873#0" expanded="true" />
-            <element signature="e#6949#6950#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/System/SensorSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="62" lean-forward="true" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#2260#2261#0" expanded="true" />
-            <element signature="e#2317#2318#0" expanded="true" />
-            <element signature="e#2623#2624#0" expanded="true" />
-            <element signature="e#2659#2660#0" expanded="true" />
+            <element signature="e#7273#7274#0" expanded="true" />
+            <element signature="e#7350#7351#0" expanded="true" />
           </folding>
         </state>
       </provider>
