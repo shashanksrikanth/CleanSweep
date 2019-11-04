@@ -96,7 +96,8 @@ public class ControlSystem {
             position[1] += whereToGo[1];
             sensor.setVisited(position[0], position[1]);
             System.out.println("Machine is currently at [" + position[0] + "," + position[1] + "]");
-            setBatteryLevel(); //set BatteryLevel for each move
+
+            setBatteryLevel(position[0],position[1]); //set BatteryLevel for each move
             getBatteryLevel(); //printout the current BatteryLevel.
 
             System.out.println("--------------------checkDirtBegin-------------------");
@@ -138,7 +139,7 @@ public class ControlSystem {
                 rechargePathX.push(position[0]);
                 rechargePathY.push(position[1]);
                 System.out.println("pushing " + position[0] +", "+ position[1] + " to the stack");
-                setBatteryLevel();
+                setBatteryLevel(position[0],position[1]);
                 getBatteryLevel();
                 System.out.println();
             }
@@ -149,9 +150,20 @@ public class ControlSystem {
     }
 
     // set battery level for each move
-    public void setBatteryLevel(){
+    public void setBatteryLevel(int x,int y){
         //floorType need to be implemented here
-        batteryLevel -= 5;
+        if(sensor.getFloorType(x,y)==0){
+            batteryLevel -=3;
+            System.out.println("Bare floor, using 3 unit of battery");
+        }
+        else if (sensor.getFloorType(x,y)==1){
+            batteryLevel -=6;
+            System.out.println("Low-pile carpet, using 6 units of battery");
+        }
+        else if (sensor.getFloorType(x,y)==2){
+            System.out.println("High-pil carpet, using 9 units of battery");
+            batteryLevel -=9;
+        }
     }
 
     public void getBatteryLevel(){
@@ -168,7 +180,7 @@ public class ControlSystem {
             position[0] = nextLocationX;
             position[1] = nextLocationY;
             System.out.println("Back to the last visited location before recharging, machine is currently at [" + position[0] + "," + position[1] + "]");
-            setBatteryLevel();
+            setBatteryLevel(position[0],position[1]);//check battery level based on floorType
             getBatteryLevel();
             System.out.println();
         }
@@ -181,7 +193,7 @@ public class ControlSystem {
 
             sensor.setDirt(x,y,dirtLevel-1);
             System.out.println("clean dirt, current dirt level is "+ (dirtLevel - 1));
-            setBatteryLevel(); //set BatteryLevel for each vacuum. need floor type
+            setBatteryLevel(x,y); //set BatteryLevel for each vacuum. need floor type
             getBatteryLevel(); //printout the current BatteryLevel.
         }
     }
