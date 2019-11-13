@@ -4,7 +4,9 @@ import java.io.*;
 public class SensorSystem {
 
     FloorUnit[][]floorPlan; //2D array of FloorUnit object
-    int dimensions;
+    int dimensions; //dimensions of the floor plan
+    int numTiles;
+    int numVisited=0;
     public boolean isDirt(int row, int col){
         return floorPlan[row][col].getIsDirt();
     }
@@ -44,6 +46,7 @@ public class SensorSystem {
                 int colNum = Integer.parseInt(information[1]);
                 int dirtLevel = Integer.parseInt(information[2]);
                 int obstacle = Integer.parseInt(information[3]);
+                if(obstacle==0) numTiles++;
                 int visited = Integer.parseInt(information[4]);
                 int floorType = Integer.parseInt(information[5]); //khoa lines add to floor type.
                 floorPlan[rowNum][colNum] = new FloorUnit(dirtLevel, obstacle, visited, floorType); //khoa added floorType
@@ -66,5 +69,14 @@ public class SensorSystem {
     public int getFloorType(int row, int col){
         return floorPlan[row][col].getFloorType();
     }
+
+    //get numTiles
+    public int getTotalTiles() {return numTiles;}
+
+    //increment number of tiles visited by the vacuum cleaner
+    public void incrementVisited() {numVisited++;}
+
+    //get numVisited
+    public int getVisitedTiles() {return numVisited;}
 }
 

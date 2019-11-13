@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50972323-d9ca-4ded-9cb4-28ca503bc1e8" name="Default Changelist" comment="">
+    <list default="true" id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/System/ControlSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/System/ControlSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/System/FloorUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/System/FloorUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/System/ControlSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/System/ControlSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/System/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/System/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/System/SensorSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/System/SensorSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/System/FloorUnitTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +25,35 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clean</find>
+      <find>dirt</find>
+      <find>setBatteryLevel</find>
+      <find>recharge mode move</find>
+      <find>whereToGo</find>
+      <find>the battery level now is</find>
+      <find>stack</find>
+      <find>Machine is currently at</find>
+      <find>setBattery</find>
+      <find>this.</find>
+      <find>Back to the</find>
+      <find>Machine is currently</find>
+      <find>khoa</find>
+      <find>and</find>
+      <find>&amp;&amp;</find>
+      <find>backToCl</find>
+      <find>set</find>
+      <find>setBatt</find>
+      <find>pushing</find>
+      <find>setVisited</find>
+      <find>batteryLevel</find>
+      <find>checkDirt</find>
+      <find>setBatter</find>
+      <find>[4,0]</find>
+      <find>checking</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,27 +106,19 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand />
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d3f19b77-6b38-4508-ad58-5a35ef5d7a1c" name="Default Changelist" comment="" />
+      <changelist id="dfbafd17-f21e-4430-a3bd-7dfda1e70065" name="Default Changelist" comment="" />
       <created>1572309025809</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572309025809</updated>
       <workItem from="1572309027189" duration="112000" />
+      <workItem from="1572872988788" duration="605000" />
+      <workItem from="1573506714946" duration="5259000" />
     </task>
     <servers />
   </component>
