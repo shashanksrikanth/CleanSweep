@@ -6,16 +6,17 @@ public class ControlSystem {
 
     //instance variables
     SensorSystem sensor;
-    float batteryLevel = 100;
+    float batteryLevel = 1000;
     int[] position = new int[2];
     Boolean rechargeMode = false;
     // Stack<int[]> rechargePath = new Stack<>();
     Stack<Integer> rechargePathX = new Stack<>();
     Stack<Integer> rechargePathY = new Stack<>();
+    Stack<Integer[]> previousPath = new Stack<>(); //Stack for basic movement (obstacle recognition)
+    boolean moveBack = false; //flag for whether the machine is moving back or not
 
     public ControlSystem(SensorSystem sensor){
         this.sensor = sensor;
-
         position[0]= 0;
         position[1]=0;
     }
@@ -32,26 +33,34 @@ public class ControlSystem {
                 System.out.println("Checking " + position[0] + ", " + (position[1] + 1));
                 coordinates[0] = 0;
                 coordinates[1] = 1;
+                moveBack = false;
             }
             //check if anything is in the right (per our POV)
             else if (!sensor.isObstacle(position[0] + 1, position[1]) && !sensor.isVisited(position[0] + 1, position[1])) {
                 System.out.println("Checking " + (position[0] + 1) + ", " + position[1]);
                 coordinates[0] = 1;
                 coordinates[1] = 0;
+                moveBack = false;
             }
             //check if anything is on the left (per our POV)
             else if (!sensor.isObstacle(position[0] - 1, position[1]) && !sensor.isVisited(position[0] - 1, position[1])) {
                 System.out.println("Checking " + (position[0] - 1) + ", " + position[1]);
                 coordinates[0] = -1;
                 coordinates[1] = 0;
-            } else if (!sensor.isObstacle(position[0], position[1] - 1) && !sensor.isVisited(position[0], position[1] - 1)) {
+                moveBack = false;
+            }
+            else if (!sensor.isObstacle(position[0], position[1] - 1) && !sensor.isVisited(position[0], position[1] - 1)) {
                 System.out.println("Checking " + (position[0]) + ", " + (position[1] - 1));
                 coordinates[0] = 0;
                 coordinates[1] = -1;
-            } else {
-                System.out.println("Full floor has been traversed");
-                coordinates[0] = Integer.MAX_VALUE;
-                coordinates[1] = Integer.MAX_VALUE;
+                moveBack = false;
+            }
+            else {
+                previousPath.pop();
+                Integer[]coordinatesFromStack = previousPath.pop();
+                coordinates[0] = coordinatesFromStack[0].intValue();
+                coordinates[1] = coordinatesFromStack[1].intValue();
+                moveBack = true;
             }
             return coordinates;
         }
@@ -90,14 +99,30 @@ public class ControlSystem {
 
     public boolean moveDevice(){
         int[]whereToGo = this.checkWhereToMove();
+        Integer[]whereToGoStack = new Integer[2];
         //if it has not traverse the whole floor and not in recharge mode, it means it is in cleaning mode
         if(whereToGo[0]!=Integer.MAX_VALUE & !rechargeMode) {
-            setBatteryLevel(position[0],position[1],position[0] + whereToGo[0],position[1] + whereToGo[1]); //x1,y1 are where we currently are, x2,y2 is where we want to go
-            position[0] += whereToGo[0];
-            position[1] += whereToGo[1];
+            if(!moveBack) {
+                //if you are not moving back, we are just adding the directions to the position of the machine
+                setBatteryLevel(position[0], position[1], position[0] + whereToGo[0], position[1] + whereToGo[1]); //x1,y1 are where we currently are, x2,y2 is where we want to go
+                position[0] += whereToGo[0];
+                position[1] += whereToGo[1];
+                sensor.incrementVisited();
+            }
+            else{
+                //if it is moving back, we just set the location of the machine to the location we popped from the stack
+                setBatteryLevel(position[0], position[1], whereToGo[0], whereToGo[1]);
+                position[0] = whereToGo[0];
+                position[1] = whereToGo[1];
+            }
             System.out.println("Machine is moving to [" + position[0] + "," + position[1] + "]");
             sensor.setVisited(position[0], position[1]);
             System.out.println("Machine is currently at [" + position[0] + "," + position[1] + "]");
+            whereToGoStack[0]= Integer.valueOf(position[0]);
+            whereToGoStack[1]= Integer.valueOf(position[1]);
+            previousPath.push(whereToGoStack);
+            System.out.println("Coordinates ["+whereToGoStack[0]+", "+whereToGoStack[1]+"] has been added to the stack");
+
 
             getBatteryLevel(); //printout the current BatteryLevel.
 
