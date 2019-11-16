@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfbafd17-f21e-4430-a3bd-7dfda1e70065" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/System/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,34 +15,12 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>clean</find>
-      <find>dirt</find>
-      <find>setBatteryLevel</find>
-      <find>recharge mode move</find>
-      <find>whereToGo</find>
-      <find>the battery level now is</find>
-      <find>stack</find>
-      <find>Machine is currently at</find>
-      <find>setBattery</find>
-      <find>this.</find>
-      <find>Back to the</find>
-      <find>Machine is currently</find>
-      <find>khoa</find>
-      <find>and</find>
-      <find>&amp;&amp;</find>
-      <find>backToCl</find>
-      <find>set</find>
-      <find>setBatt</find>
-      <find>pushing</find>
-      <find>setVisited</find>
-      <find>batteryLevel</find>
-      <find>checkDirt</find>
-      <find>setBatter</find>
-      <find>[4,0]</find>
-      <find>checking</find>
-    </findStrings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,6 +39,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
