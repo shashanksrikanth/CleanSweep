@@ -203,16 +203,7 @@ public class ControlSystem {
                 batteryLevel = 100;
                 System.out.println("Battery fully recharged to 100.");
                 System.out.println("Empty Me....");
-
-//                System.out.println("Press Enter to empty the dirt.");
-//                try{
-//                    System.in.read();
-//                    dirtLoad = 0;
-//                    backtoClean(2);
-//                    emptydirtMode = false;
-//                }
-//                catch(Exception e){}
-
+                System.exit(0);
         }
             // push the path to charging station to the stack
             else {
@@ -258,6 +249,7 @@ public class ControlSystem {
     public void getBatteryLevel() {
         System.out.println("The battery level now is " + batteryLevel);
     }
+
 
     // moving the robot back to the location that has been last visited before recharging/emptydirt
     public void backtoClean(int mode_num) {
