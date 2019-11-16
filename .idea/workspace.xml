@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0a65dad-d142-4149-9426-8550212c4847" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Sr5lZ20SKiqq1gufK0lyH1rkse" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
