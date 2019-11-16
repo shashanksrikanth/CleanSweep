@@ -203,14 +203,15 @@ public class ControlSystem {
                 batteryLevel = 100;
                 System.out.println("Battery fully recharged to 100.");
                 System.out.println("Empty Me....");
-                System.out.println("Press Enter to empty the dirt.");
-                try{
-                    System.in.read();
-                    dirtLoad = 0;
-                    backtoClean(2);
-                    emptydirtMode = false;
-                }
-                catch(Exception e){}
+
+//                System.out.println("Press Enter to empty the dirt.");
+//                try{
+//                    System.in.read();
+//                    dirtLoad = 0;
+//                    backtoClean(2);
+//                    emptydirtMode = false;
+//                }
+//                catch(Exception e){}
 
         }
             // push the path to charging station to the stack
