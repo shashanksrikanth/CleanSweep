@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0a65dad-d142-4149-9426-8550212c4847" name="Default Changelist" comment="" />
+    <list default="true" id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +23,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Sr5lZ20SKiqq1gufK0lyH1rkse" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,7 +79,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dfbafd17-f21e-4430-a3bd-7dfda1e70065" name="Default Changelist" comment="" />
+      <changelist id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="" />
       <created>1572309025809</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -83,6 +87,7 @@
       <workItem from="1572309027189" duration="112000" />
       <workItem from="1572872988788" duration="605000" />
       <workItem from="1573506714946" duration="5259000" />
+      <workItem from="1573944432821" duration="469000" />
     </task>
     <servers />
   </component>
