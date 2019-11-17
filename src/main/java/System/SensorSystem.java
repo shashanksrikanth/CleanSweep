@@ -30,7 +30,6 @@ public class SensorSystem {
     //want to mark if the unit has been visited already
     public void setVisited(int row, int col) {
         floorPlan[row][col].visited=1;
-        System.out.println("Floor unit ["+ row + ","+ col+ "] has been marked as visited");
     }
 
     //reading in a floor system file
@@ -52,7 +51,6 @@ public class SensorSystem {
                 floorPlan[rowNum][colNum] = new FloorUnit(dirtLevel, obstacle, visited, floorType); //khoa added floorType
                 line = reader.readLine();
             }
-            System.out.println("Floor plan recognized!");
             reader.close();
 
         }
