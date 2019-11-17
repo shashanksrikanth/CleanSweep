@@ -10,6 +10,8 @@ import org.mockito.runners.MockitoJUnitRunner;
 import javax.naming.ldap.Control;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Stack;
 
 import static org.mockito.Mockito.*;
 
@@ -24,6 +26,12 @@ public class ControlSystemTest {
 
     @Mock
     private FloorUnit floorUnit;
+
+    @Mock
+    private Stack<Integer[]> previousPath;
+
+    @Mock
+    private ArrayList<String> log;
 
     @Test
     public void setBatteryLevel_BareFloorToBareFloor(){
@@ -66,5 +74,38 @@ public class ControlSystemTest {
         when(sensorSystem.getFloorType(1,1)).thenReturn(1);
         when(sensorSystem.getFloorType(2,2)).thenReturn(2);
         controlSystem.setBatteryLevel(1,1,2,2);
+    }
+
+    @Test
+    public void checkWhereToMove_downIsAvailable(){
+        controlSystem.rechargeMode = false;
+        controlSystem.emptydirtMode = false;
+        when(sensorSystem.isObstacle(Mockito.anyInt(), Mockito.anyInt())).thenReturn(false);
+        when(sensorSystem.isVisited(Mockito.anyInt(), Mockito.anyInt())).thenReturn(false);
+        controlSystem.checkWhereToMove();
+    }
+
+    @Test
+    public void checkDirt_NotDirt(){
+       when(sensorSystem.isDirt(1,1)).thenReturn(false);
+        controlSystem.checkDirt(1,1,1,1);
+    }
+
+    @Test
+    public void checkDirt_IsDirt(){
+        controlSystem.batteryLevel = 100;
+        controlSystem.dirtLoad = 0;
+        when(sensorSystem.isDirt(1,1)).thenReturn(true).thenReturn(false);
+        when(sensorSystem.getDirt(1,1)).thenReturn(1);
+        when(log.add(Mockito.anyString())).thenReturn(true);
+        controlSystem.checkDirt(1,1,1,1);
+
+    }
+
+    @Test
+    public void printLog(){
+        log.add("Item");
+//        when(log.get(Mockito.anyInt())).thenReturn("Item Mock");
+        controlSystem.printLog();
     }
 }

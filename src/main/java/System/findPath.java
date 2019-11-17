@@ -34,18 +34,21 @@ public class findPath {
         }
 
         public void setHcosts(Cell endCell) {
-            Hcosts = Math.abs(i-endCell.i) + Math.abs(j-endCell.j);
+            Hcosts = Math.abs(i - endCell.i) + Math.abs(j - endCell.j);
         }
 
         public int getFcosts() {
             return Gcosts + Hcosts;
         }
+
         public void setParent(Cell parent) {
             this.parent = parent;
         }
-        public Cell getParent(){
+
+        public Cell getParent() {
             return parent;
         }
+
         public boolean isWalkable() {
             return walkable;
         }
@@ -61,13 +64,17 @@ public class findPath {
     }
 
     //use the sensor from ControlSystem to initialize several global variables
-    int height = ControlSystem.sensor.dimensions -1;
-    int width = ControlSystem.sensor.dimensions -1;
-    Cell[][] grid = new Cell[width+1][height+1];
+    int height = ControlSystem.sensor.dimensions - 1;
+    int width = ControlSystem.sensor.dimensions - 1;
+    Cell[][] grid = new Cell[width + 1][height + 1];
 
-    /** list containing nodes not visited but adjacent to visited nodes. */
+    /**
+     * list containing nodes not visited but adjacent to visited nodes.
+     */
     private List<Cell> openList;
-    /** list containing nodes already visited/taken care of. */
+    /**
+     * list containing nodes already visited/taken care of.
+     */
     private List<Cell> closedList;
 
     private boolean done = false;
@@ -109,9 +116,9 @@ public class findPath {
                     currentAdj.setHcosts(current); // set g costs of this node (costs from start to this node)
                     openList.add(currentAdj); // add node to openList
                 } else { // node is in openList
-                    if (currentAdj.getGcosts() > currentAdj.calculateGcosts(current,1)) { // costs from current node are cheaper than previous costs
+                    if (currentAdj.getGcosts() > currentAdj.calculateGcosts(current, 1)) { // costs from current node are cheaper than previous costs
                         currentAdj.setParent(current); // set current node as previous for this node
-                        currentAdj.setGcosts(current,1); // set g costs of this node (costs from start to this node)
+                        currentAdj.setGcosts(current, 1); // set g costs of this node (costs from start to this node)
                     }
                 }
             }
