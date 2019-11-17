@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/System/ControlSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/System/ControlSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +90,7 @@
       <workItem from="1572309027189" duration="112000" />
       <workItem from="1572872988788" duration="605000" />
       <workItem from="1573506714946" duration="5259000" />
-      <workItem from="1573944432821" duration="469000" />
+      <workItem from="1573944432821" duration="5485000" />
     </task>
     <servers />
   </component>
