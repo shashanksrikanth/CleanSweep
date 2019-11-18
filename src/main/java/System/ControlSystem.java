@@ -8,7 +8,7 @@ public class ControlSystem {
 
     //instance variables
     static SensorSystem sensor;
-    float batteryLevel = 100;
+    float batteryLevel = 250;
     int[] position = new int[2];
     boolean rechargeMode = false;
     boolean emptydirtMode = false;
@@ -20,7 +20,7 @@ public class ControlSystem {
     ArrayList<String> log = new ArrayList<>();
 
     boolean moveBack = false; //flag for whether the machine is moving back or not
-    int dirtCapacity = 10;
+    int dirtCapacity = 50;
     int dirtLoad = 0;
 
     public ControlSystem(SensorSystem sensor) {
