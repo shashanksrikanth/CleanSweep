@@ -14,20 +14,27 @@ public class Main {
             path = readFile.nextLine();
         }
         sensor.readFile(path);
+
         ControlSystem control = new ControlSystem(sensor);
         Scanner in = new Scanner(System.in);
         System.out.println("Clean Sweep starting...");
-        System.out.println("Type 'log' for a log of the movements of the machine...");
+
         while(sensor.getVisitedTiles()<sensor.getTotalTiles()-1 && control.moveDevice()) {
             control.moveDevice();
-            String needLog = in.nextLine();
-            if(needLog.toLowerCase().equals("log")) {
-                control.printLog();
-            }
-            if(!needLog.toLowerCase().equals("log")) {
-                System.out.println("Type valid command please");
-            }
         }
+
+        System.out.println("Would you like a log? If yes, type 'log'. If not, type 'Exit'");
+        String needLog = in.nextLine();
+        if(needLog.toLowerCase().equals("log")) {
+            control.printLog();
+        }
+        else if (needLog.toLowerCase().equals("exit")){
+            System.exit(0);
+        }
+        else {
+            System.out.println("Type valid command please");
+        }
+
         in.close();
         readFile.close();
     }

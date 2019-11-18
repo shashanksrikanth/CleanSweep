@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="10" failures="0" name="System.ControlSystemTest" time="0.017" errors="0" skipped="0">
+<testsuite tests="10" failures="0" name="System.ControlSystemTest" time="0.014" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib"/>
@@ -69,10 +69,10 @@
   <testcase classname="System.ControlSystemTest" name="setBatteryLevel_BareFloorToLowPile" time="0.001"/>
   <testcase classname="System.ControlSystemTest" name="printLog" time="0"/>
   <testcase classname="System.ControlSystemTest" name="checkDirt_NotDirt" time="0.001"/>
-  <testcase classname="System.ControlSystemTest" name="checkWhereToMove_downIsAvailable" time="0.001"/>
-  <testcase classname="System.ControlSystemTest" name="checkDirt_IsDirt" time="0.002"/>
-  <testcase classname="System.ControlSystemTest" name="setBatteryLevel_LowPileToHighPile" time="0.001"/>
+  <testcase classname="System.ControlSystemTest" name="checkWhereToMove_downIsAvailable" time="0"/>
+  <testcase classname="System.ControlSystemTest" name="checkDirt_IsDirt" time="0.003"/>
+  <testcase classname="System.ControlSystemTest" name="setBatteryLevel_LowPileToHighPile" time="0"/>
   <testcase classname="System.ControlSystemTest" name="setBatteryLevel_BareFloorToHighPile" time="0.001"/>
-  <testcase classname="System.ControlSystemTest" name="setBatteryLevel_HighPileToHighPIle" time="0.003"/>
+  <testcase classname="System.ControlSystemTest" name="setBatteryLevel_HighPileToHighPIle" time="0.001"/>
   <testcase classname="System.ControlSystemTest" name="setBatteryLevel_BareFloorToBareFloor" time="0.001"/>
 </testsuite>
