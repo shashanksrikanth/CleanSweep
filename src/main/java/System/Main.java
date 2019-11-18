@@ -23,10 +23,11 @@ public class Main {
         // this PrintStram variable is store the default System.out
         PrintStream toConsole = System.out;
 
+        while(sensor.getVisitedTiles()<sensor.getTotalTiles()-1 && !control.emptystopFlag && control.moveDevice() ) {
+            control.moveDevice();
+        }
+
         if(needLog.toLowerCase().equals("log")) {
-                while(sensor.getVisitedTiles()<sensor.getTotalTiles()-1 && !control.emptystopFlag && control.moveDevice() ) {
-                    control.moveDevice();
-                }
                 //call this method to write logs to a file and printout logs to console at the same time
                 control.printLog(toFile,toConsole);
             }

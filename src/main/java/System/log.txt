@@ -1,0 +1,1448 @@
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 4
+Bare floor to Bare Floor
+Machine is moving to [3,4]
+Machine is currently at [3,4]
+Coordinates [3, 4] has been added to the stack
+The battery level now is 81.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 2, 4
+Bare floor to Bare Floor
+Machine is moving to [2,4]
+Machine is currently at [2,4]
+Coordinates [2, 4] has been added to the stack
+The battery level now is 80.0
+--------------------checkDirtBegin-------------------
+dirt detected at [2,4], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 7
+Bare floor to Bare Floor
+The battery level now is 79.0
+dirt detected at [2,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 8
+Bare floor to Bare Floor
+The battery level now is 78.0
+dirt detected at [2,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 9
+Bare floor to Bare Floor
+The battery level now is 77.0
+--------------------checkDirtEnd---------------------
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 4
+Bare floor to Bare Floor
+Machine is moving to [3,4]
+Machine is currently at [3,4]
+Coordinates [3, 4] has been added to the stack
+The battery level now is 81.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 2, 4
+Bare floor to Bare Floor
+Machine is moving to [2,4]
+Machine is currently at [2,4]
+Coordinates [2, 4] has been added to the stack
+The battery level now is 80.0
+--------------------checkDirtBegin-------------------
+dirt detected at [2,4], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 7
+Bare floor to Bare Floor
+The battery level now is 79.0
+dirt detected at [2,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 8
+Bare floor to Bare Floor
+The battery level now is 78.0
+dirt detected at [2,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 9
+Bare floor to Bare Floor
+The battery level now is 77.0
+--------------------checkDirtEnd---------------------
+Checking 1, 4
+Bare floor to Bare Floor
+Machine is moving to [1,4]
+Machine is currently at [1,4]
+Coordinates [1, 4] has been added to the stack
+The battery level now is 76.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 10
+Bare floor to Bare Floor
+The battery level now is 75.0
+dirt detected at [1,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 11
+Bare floor to Bare Floor
+The battery level now is 74.0
+--------------------checkDirtEnd---------------------
+Dirt capacity has been filled. Found path to charging station:[[2, 4], [3, 4], [4, 4], [4, 3], [4, 2], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [0, 0]]
+Moving to charging station to empty dirt load.
+Machine is currently at [2,4]
+Empty Dirt mode move to 2, 4
+Bare floor to Bare Floor
+The battery level now is 73.0
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 4
+Bare floor to Bare Floor
+Machine is moving to [3,4]
+Machine is currently at [3,4]
+Coordinates [3, 4] has been added to the stack
+The battery level now is 81.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 2, 4
+Bare floor to Bare Floor
+Machine is moving to [2,4]
+Machine is currently at [2,4]
+Coordinates [2, 4] has been added to the stack
+The battery level now is 80.0
+--------------------checkDirtBegin-------------------
+dirt detected at [2,4], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 7
+Bare floor to Bare Floor
+The battery level now is 79.0
+dirt detected at [2,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 8
+Bare floor to Bare Floor
+The battery level now is 78.0
+dirt detected at [2,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 9
+Bare floor to Bare Floor
+The battery level now is 77.0
+--------------------checkDirtEnd---------------------
+Checking 1, 4
+Bare floor to Bare Floor
+Machine is moving to [1,4]
+Machine is currently at [1,4]
+Coordinates [1, 4] has been added to the stack
+The battery level now is 76.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 10
+Bare floor to Bare Floor
+The battery level now is 75.0
+dirt detected at [1,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 11
+Bare floor to Bare Floor
+The battery level now is 74.0
+--------------------checkDirtEnd---------------------
+Dirt capacity has been filled. Found path to charging station:[[2, 4], [3, 4], [4, 4], [4, 3], [4, 2], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [0, 0]]
+Moving to charging station to empty dirt load.
+Machine is currently at [2,4]
+Empty Dirt mode move to 2, 4
+Bare floor to Bare Floor
+The battery level now is 73.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,4]
+Empty Dirt mode move to 3, 4
+Bare floor to Bare Floor
+The battery level now is 72.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,4]
+Empty Dirt mode move to 4, 4
+Bare floor to Bare Floor
+The battery level now is 71.0
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 4
+Bare floor to Bare Floor
+Machine is moving to [3,4]
+Machine is currently at [3,4]
+Coordinates [3, 4] has been added to the stack
+The battery level now is 81.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 2, 4
+Bare floor to Bare Floor
+Machine is moving to [2,4]
+Machine is currently at [2,4]
+Coordinates [2, 4] has been added to the stack
+The battery level now is 80.0
+--------------------checkDirtBegin-------------------
+dirt detected at [2,4], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 7
+Bare floor to Bare Floor
+The battery level now is 79.0
+dirt detected at [2,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 8
+Bare floor to Bare Floor
+The battery level now is 78.0
+dirt detected at [2,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 9
+Bare floor to Bare Floor
+The battery level now is 77.0
+--------------------checkDirtEnd---------------------
+Checking 1, 4
+Bare floor to Bare Floor
+Machine is moving to [1,4]
+Machine is currently at [1,4]
+Coordinates [1, 4] has been added to the stack
+The battery level now is 76.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 10
+Bare floor to Bare Floor
+The battery level now is 75.0
+dirt detected at [1,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 11
+Bare floor to Bare Floor
+The battery level now is 74.0
+--------------------checkDirtEnd---------------------
+Dirt capacity has been filled. Found path to charging station:[[2, 4], [3, 4], [4, 4], [4, 3], [4, 2], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [0, 0]]
+Moving to charging station to empty dirt load.
+Machine is currently at [2,4]
+Empty Dirt mode move to 2, 4
+Bare floor to Bare Floor
+The battery level now is 73.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,4]
+Empty Dirt mode move to 3, 4
+Bare floor to Bare Floor
+The battery level now is 72.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,4]
+Empty Dirt mode move to 4, 4
+Bare floor to Bare Floor
+The battery level now is 71.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,3]
+Empty Dirt mode move to 4, 3
+Bare floor to Bare Floor
+The battery level now is 70.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,2]
+Empty Dirt mode move to 4, 2
+Bare floor to Bare Floor
+The battery level now is 69.0
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 4
+Bare floor to Bare Floor
+Machine is moving to [3,4]
+Machine is currently at [3,4]
+Coordinates [3, 4] has been added to the stack
+The battery level now is 81.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 2, 4
+Bare floor to Bare Floor
+Machine is moving to [2,4]
+Machine is currently at [2,4]
+Coordinates [2, 4] has been added to the stack
+The battery level now is 80.0
+--------------------checkDirtBegin-------------------
+dirt detected at [2,4], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 7
+Bare floor to Bare Floor
+The battery level now is 79.0
+dirt detected at [2,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 8
+Bare floor to Bare Floor
+The battery level now is 78.0
+dirt detected at [2,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 9
+Bare floor to Bare Floor
+The battery level now is 77.0
+--------------------checkDirtEnd---------------------
+Checking 1, 4
+Bare floor to Bare Floor
+Machine is moving to [1,4]
+Machine is currently at [1,4]
+Coordinates [1, 4] has been added to the stack
+The battery level now is 76.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 10
+Bare floor to Bare Floor
+The battery level now is 75.0
+dirt detected at [1,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 11
+Bare floor to Bare Floor
+The battery level now is 74.0
+--------------------checkDirtEnd---------------------
+Dirt capacity has been filled. Found path to charging station:[[2, 4], [3, 4], [4, 4], [4, 3], [4, 2], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [0, 0]]
+Moving to charging station to empty dirt load.
+Machine is currently at [2,4]
+Empty Dirt mode move to 2, 4
+Bare floor to Bare Floor
+The battery level now is 73.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,4]
+Empty Dirt mode move to 3, 4
+Bare floor to Bare Floor
+The battery level now is 72.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,4]
+Empty Dirt mode move to 4, 4
+Bare floor to Bare Floor
+The battery level now is 71.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,3]
+Empty Dirt mode move to 4, 3
+Bare floor to Bare Floor
+The battery level now is 70.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,2]
+Empty Dirt mode move to 4, 2
+Bare floor to Bare Floor
+The battery level now is 69.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,1]
+Empty Dirt mode move to 4, 1
+Bare floor to Bare Floor
+The battery level now is 68.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,1]
+Empty Dirt mode move to 3, 1
+Bare floor to Bare Floor
+The battery level now is 67.0
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 4
+Bare floor to Bare Floor
+Machine is moving to [3,4]
+Machine is currently at [3,4]
+Coordinates [3, 4] has been added to the stack
+The battery level now is 81.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 2, 4
+Bare floor to Bare Floor
+Machine is moving to [2,4]
+Machine is currently at [2,4]
+Coordinates [2, 4] has been added to the stack
+The battery level now is 80.0
+--------------------checkDirtBegin-------------------
+dirt detected at [2,4], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 7
+Bare floor to Bare Floor
+The battery level now is 79.0
+dirt detected at [2,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 8
+Bare floor to Bare Floor
+The battery level now is 78.0
+dirt detected at [2,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 9
+Bare floor to Bare Floor
+The battery level now is 77.0
+--------------------checkDirtEnd---------------------
+Checking 1, 4
+Bare floor to Bare Floor
+Machine is moving to [1,4]
+Machine is currently at [1,4]
+Coordinates [1, 4] has been added to the stack
+The battery level now is 76.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 10
+Bare floor to Bare Floor
+The battery level now is 75.0
+dirt detected at [1,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 11
+Bare floor to Bare Floor
+The battery level now is 74.0
+--------------------checkDirtEnd---------------------
+Dirt capacity has been filled. Found path to charging station:[[2, 4], [3, 4], [4, 4], [4, 3], [4, 2], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [0, 0]]
+Moving to charging station to empty dirt load.
+Machine is currently at [2,4]
+Empty Dirt mode move to 2, 4
+Bare floor to Bare Floor
+The battery level now is 73.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,4]
+Empty Dirt mode move to 3, 4
+Bare floor to Bare Floor
+The battery level now is 72.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,4]
+Empty Dirt mode move to 4, 4
+Bare floor to Bare Floor
+The battery level now is 71.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,3]
+Empty Dirt mode move to 4, 3
+Bare floor to Bare Floor
+The battery level now is 70.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,2]
+Empty Dirt mode move to 4, 2
+Bare floor to Bare Floor
+The battery level now is 69.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,1]
+Empty Dirt mode move to 4, 1
+Bare floor to Bare Floor
+The battery level now is 68.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,1]
+Empty Dirt mode move to 3, 1
+Bare floor to Bare Floor
+The battery level now is 67.0
+Moving to charging station to empty dirt load.
+Machine is currently at [2,1]
+Empty Dirt mode move to 2, 1
+Bare floor to Bare Floor
+The battery level now is 66.0
+Moving to charging station to empty dirt load.
+Machine is currently at [1,1]
+Empty Dirt mode move to 1, 1
+Bare floor to Bare Floor
+The battery level now is 65.0
+Checking 0, 1
+Bare floor - low pile carpet
+Machine is moving to [0,1]
+Machine is currently at [0,1]
+Coordinates [0, 1] has been added to the stack
+The battery level now is 98.5
+--------------------checkDirtBegin-------------------
+dirt detected at [0,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 1
+Bare floor - low pile carpet
+The battery level now is 97.0
+dirt detected at [0,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 2
+Bare floor - low pile carpet
+The battery level now is 95.5
+--------------------checkDirtEnd---------------------
+Checking 1, 1
+Bare floor - low pile carpet
+Machine is moving to [1,1]
+Machine is currently at [1,1]
+Coordinates [1, 1] has been added to the stack
+The battery level now is 94.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,1], dirt level is 4
+clean dirt, current dirt level is 3
+robot dirt load is 3
+Bare floor - low pile carpet
+The battery level now is 92.5
+dirt detected at [1,1], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 4
+Bare floor - low pile carpet
+The battery level now is 91.0
+dirt detected at [1,1], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 5
+Bare floor - low pile carpet
+The battery level now is 89.5
+dirt detected at [1,1], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 6
+Bare floor - low pile carpet
+The battery level now is 88.0
+--------------------checkDirtEnd---------------------
+Checking 2, 1
+Bare floor to Bare Floor
+Machine is moving to [2,1]
+Machine is currently at [2,1]
+Coordinates [2, 1] has been added to the stack
+The battery level now is 87.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 1
+Bare floor to Bare Floor
+Machine is moving to [3,1]
+Machine is currently at [3,1]
+Coordinates [3, 1] has been added to the stack
+The battery level now is 86.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 1
+Bare floor to Bare Floor
+Machine is moving to [4,1]
+Machine is currently at [4,1]
+Coordinates [4, 1] has been added to the stack
+The battery level now is 85.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 2
+Bare floor to Bare Floor
+Machine is moving to [4,2]
+Machine is currently at [4,2]
+Coordinates [4, 2] has been added to the stack
+The battery level now is 84.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 3
+Bare floor to Bare Floor
+Machine is moving to [4,3]
+Machine is currently at [4,3]
+Coordinates [4, 3] has been added to the stack
+The battery level now is 83.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 4, 4
+Bare floor to Bare Floor
+Machine is moving to [4,4]
+Machine is currently at [4,4]
+Coordinates [4, 4] has been added to the stack
+The battery level now is 82.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 3, 4
+Bare floor to Bare Floor
+Machine is moving to [3,4]
+Machine is currently at [3,4]
+Coordinates [3, 4] has been added to the stack
+The battery level now is 81.0
+--------------------checkDirtBegin-------------------
+--------------------checkDirtEnd---------------------
+Checking 2, 4
+Bare floor to Bare Floor
+Machine is moving to [2,4]
+Machine is currently at [2,4]
+Coordinates [2, 4] has been added to the stack
+The battery level now is 80.0
+--------------------checkDirtBegin-------------------
+dirt detected at [2,4], dirt level is 3
+clean dirt, current dirt level is 2
+robot dirt load is 7
+Bare floor to Bare Floor
+The battery level now is 79.0
+dirt detected at [2,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 8
+Bare floor to Bare Floor
+The battery level now is 78.0
+dirt detected at [2,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 9
+Bare floor to Bare Floor
+The battery level now is 77.0
+--------------------checkDirtEnd---------------------
+Checking 1, 4
+Bare floor to Bare Floor
+Machine is moving to [1,4]
+Machine is currently at [1,4]
+Coordinates [1, 4] has been added to the stack
+The battery level now is 76.0
+--------------------checkDirtBegin-------------------
+dirt detected at [1,4], dirt level is 2
+clean dirt, current dirt level is 1
+robot dirt load is 10
+Bare floor to Bare Floor
+The battery level now is 75.0
+dirt detected at [1,4], dirt level is 1
+clean dirt, current dirt level is 0
+robot dirt load is 11
+Bare floor to Bare Floor
+The battery level now is 74.0
+--------------------checkDirtEnd---------------------
+Dirt capacity has been filled. Found path to charging station:[[2, 4], [3, 4], [4, 4], [4, 3], [4, 2], [4, 1], [3, 1], [2, 1], [1, 1], [0, 1], [0, 0]]
+Moving to charging station to empty dirt load.
+Machine is currently at [2,4]
+Empty Dirt mode move to 2, 4
+Bare floor to Bare Floor
+The battery level now is 73.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,4]
+Empty Dirt mode move to 3, 4
+Bare floor to Bare Floor
+The battery level now is 72.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,4]
+Empty Dirt mode move to 4, 4
+Bare floor to Bare Floor
+The battery level now is 71.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,3]
+Empty Dirt mode move to 4, 3
+Bare floor to Bare Floor
+The battery level now is 70.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,2]
+Empty Dirt mode move to 4, 2
+Bare floor to Bare Floor
+The battery level now is 69.0
+Moving to charging station to empty dirt load.
+Machine is currently at [4,1]
+Empty Dirt mode move to 4, 1
+Bare floor to Bare Floor
+The battery level now is 68.0
+Moving to charging station to empty dirt load.
+Machine is currently at [3,1]
+Empty Dirt mode move to 3, 1
+Bare floor to Bare Floor
+The battery level now is 67.0
+Moving to charging station to empty dirt load.
+Machine is currently at [2,1]
+Empty Dirt mode move to 2, 1
+Bare floor to Bare Floor
+The battery level now is 66.0
+Moving to charging station to empty dirt load.
+Machine is currently at [1,1]
+Empty Dirt mode move to 1, 1
+Bare floor to Bare Floor
+The battery level now is 65.0
+Moving to charging station to empty dirt load.
+Machine is currently at [0,1]
+Empty Dirt mode move to 0, 1
+Bare floor - low pile carpet
+The battery level now is 63.5
+Moving to charging station to empty dirt load.
+Machine is currently at [0,0]
+Battery fully recharged to 100.
+Empty Me....
