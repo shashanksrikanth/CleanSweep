@@ -6,7 +6,7 @@ import java.util.*;
 public class Main {
     public static void main(String[]args) throws IOException {
         SensorSystem sensor = new SensorSystem();
-        sensor.readFile("src/main/java/System/floorplan2.txt");
+        sensor.readFile("src/main/java/System/floorplan.txt");
         ControlSystem control = new ControlSystem(sensor);
         Scanner in = new Scanner(System.in);
         System.out.println("Clean Sweep starting...");

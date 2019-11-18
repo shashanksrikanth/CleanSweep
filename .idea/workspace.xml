@@ -5,8 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/System/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/System/ControlSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/System/ControlSystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,6 +90,7 @@
       <workItem from="1572872988788" duration="605000" />
       <workItem from="1573506714946" duration="5259000" />
       <workItem from="1573944432821" duration="5485000" />
+      <workItem from="1574037592248" duration="3439000" />
     </task>
     <servers />
   </component>
