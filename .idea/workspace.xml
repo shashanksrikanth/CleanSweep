@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="">
+    <list default="true" id="e5dc49ef-f621-4a41-bce6-366972a93243" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/ControlSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/System/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/floorplan.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/System/ControlSystemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/System/SensorSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/System/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/System/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/System/SensorSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/System/SensorSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/edu.depaul-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,34 +16,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
   </component>
-  <component name="ProjectId" id="1Sr5lZ20SKiqq1gufK0lyH1rkse" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Tm9ihq6C4Z8bpIQuxtwtkpYByb" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,7 +53,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -81,16 +61,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9683086c-0546-4d94-804b-1611d9882a3c" name="Default Changelist" comment="" />
-      <created>1572309025809</created>
+      <changelist id="e5dc49ef-f621-4a41-bce6-366972a93243" name="Default Changelist" comment="" />
+      <created>1574054532101</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572309025809</updated>
-      <workItem from="1572309027189" duration="112000" />
-      <workItem from="1572872988788" duration="605000" />
-      <workItem from="1573506714946" duration="5259000" />
-      <workItem from="1573944432821" duration="5485000" />
-      <workItem from="1574037592248" duration="3439000" />
+      <updated>1574054532101</updated>
+      <workItem from="1574054533673" duration="1072000" />
+      <workItem from="1574055628003" duration="19000" />
+      <workItem from="1574055836555" duration="71000" />
     </task>
     <servers />
   </component>
@@ -105,20 +83,6 @@
             <State>
               <option name="COLUMN_ORDER" />
             </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
           </value>
         </entry>
       </map>

@@ -56,6 +56,7 @@ public class SensorSystem {
                 line = reader.readLine();
             }
             reader.close();
+            System.out.println("Floorplan recognized");
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
